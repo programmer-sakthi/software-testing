@@ -1,3 +1,7 @@
-1. Open the browser and navigate to the URL: https://www.google.com
-2. Click on the search box, input the value "maven", and perform the search action.
-3. Quit the browser. 
+1. Launch the webpage https://adactinhotelapp.com/
+
+2. Use "id" locator to input the value "Salman" in "Username" field
+
+3. Use "name" locator to input the value "dummy" in "Password" field
+
+4. Use "class" locator to click "Login" button

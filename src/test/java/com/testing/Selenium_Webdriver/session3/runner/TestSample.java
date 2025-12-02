@@ -1,20 +1,23 @@
-package com.testing.Selenium_Locators.session2.runner;
+package com.testing.Selenium_Webdriver.session3.runner;
 
-import org.junit.Test;
-import org.openqa.selenium.By;
+import java.net.MalformedURLException;
+import java.net.URL;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.events.EventFiringDecorator;
 import org.openqa.selenium.support.events.WebDriverListener;
 
-import com.testing.Selenium_Locators.session1.utils.EventHandler;
+import com.testing.Selenium_Webdriver.session3.utils.EventHandler;
+
+import org.openqa.selenium.By;
 
 public class TestSample {
 
     public static WebDriver driver;
 
-    @Test
     public static void main(String[] args) {
         try {
             driver = new ChromeDriver();
@@ -33,20 +36,24 @@ public class TestSample {
             driver = new EventFiringDecorator<>(listener).decorate(driver);
 
             // Start your script from here
-            driver.get("https://adactinhotelapp.com/");
+            driver.get("https://www.wikipedia.org");
 
-            WebElement usernameElement = driver.findElement(By.id("username"));
-            usernameElement.sendKeys("Salman");
+            // Perform any additional actions
+            driver.findElement(By.name("search")).sendKeys("Selenium softwate");
+            driver.findElement(By.name("search")).submit();
 
-            WebElement passwordElement = driver.findElement(By.name("password"));
-            passwordElement.sendKeys("dummy");
-
-            WebElement submitButton = driver.findElement(By.className("login_button"));
-            submitButton.click();
+            WebElement firstSearchResultLink = driver
+                    .findElement(By.xpath("//ul[@class='mw-search-results']/li[1]//a"));
+            firstSearchResultLink.click();
 
         } catch (Exception e) {
             e.printStackTrace();
         } finally {
+            try {
+                Thread.sleep(10000);
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
             if (driver != null) {
                 driver.quit();
             }
