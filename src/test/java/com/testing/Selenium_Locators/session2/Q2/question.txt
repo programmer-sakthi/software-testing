@@ -1,0 +1,9 @@
+Open the browser and navigate to the URL:  Demo Quiz 1 - Automation Step by Step 
+URL : https://automationstepbystep.com/demo-quiz-1/
+URL: "Demo Quiz 1 - Automation Step by Step"
+Enter Your name: "Eg: Navanee".
+Click on the " Start Quiz" button.
+Answer the question by clicking the Radio button as in image given:
+Click on the Search button and Enter "Devops"
+Click the first shown result.
+Quit the browser session

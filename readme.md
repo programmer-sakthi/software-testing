@@ -106,7 +106,7 @@ This repository contains all the code and resources for the Software Testing cou
     <tr>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;">Selenium Locators</td>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;">✅</td>
-      <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;">❌</td>
+      <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;">Q1 : ❌ Q2 : ✅</td>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;"></td>
     </tr>
     <tr>
@@ -162,4 +162,4 @@ This repository contains all the code and resources for the Software Testing cou
 
 ### Selenium Locators
 
-- Session 2 : The website UI has been changed.
+- Session 2 Q1 : The website UI has been changed.

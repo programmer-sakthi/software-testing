@@ -1,4 +1,4 @@
-package com.testing.Selenium_Locators.session2.runner;
+package com.testing.Selenium_Locators.session2.Q1.runner;
 
 import org.junit.Test;
 import org.openqa.selenium.WebDriver;
@@ -32,7 +32,6 @@ public class TestSample {
 
             // Start your script from here
             driver.get("https://www.netmeds.com/");
-
 
         } catch (Exception e) {
             e.printStackTrace();
