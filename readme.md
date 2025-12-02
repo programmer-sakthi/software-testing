@@ -59,6 +59,26 @@ This repository contains all the code and resources for the Software Testing cou
   import com.testing.Selenium_Webdriver.session1.utils.EventHandler;
   ```
 
+- The function name will be changed from test method to main method for compatibility.
+  eg :
+
+  **in portal :**
+
+  ```java
+  @Test
+  public void test() {
+      // code
+  }
+  ```
+
+  **in local setup (i.e my github code) :**
+
+  ```java
+  public static void main(String[] args) {
+      // code
+  }
+  ```
+
 # 📅 Session Completion Status
 
 ## Legend
