@@ -1,0 +1,17 @@
+1. Open the browser and navigate to the URL: https://www.wikipedia.org.
+
+2. Locate the search box element by its name attribute `search`.
+
+3. Input the value "Selenium software" into the search box.
+
+4. Submit the search form to initiate the search.
+
+5. Wait for the search results to load.
+
+6. Locate the first search result link using the CSS selector `ul.mw-search-results li a`.
+
+7. Click the first search result link to navigate to the respective page.
+
+8. Wait for a few seconds to see the results.
+
+9. Quit the browser session.
