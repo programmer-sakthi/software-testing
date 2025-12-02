@@ -5,6 +5,60 @@ This repository contains all the code and resources for the Software Testing cou
 - Find the code for each session in the respective folders named after the session topics.
 - The folders will be located in src/test/java/com/testing
 
+## Instructions regarding the code
+
+- The code will not be identical to portal code.
+- These changes have been made to ensure compatibility with local setup.
+- The package name will be different from the one in portal.
+  eg :
+
+  **in portal :**
+
+  for TestSample Class
+
+  ```java
+  package runner;
+  ```
+
+  for EventHandler Class
+
+  ```java
+  package utils;
+  ```
+
+  **in local setup (i.e my github code) :**
+
+  for TestSample Class
+
+  ```java
+  package com.testing.Selenium_Webdriver.session1.runner;
+  ```
+
+  for EventHandler Class
+
+  ```java
+  package com.testing.Selenium_Webdriver.session1.utils;
+  ```
+
+- The imports for classes already implemented in portal will also be different ( like EventHandler class in session 1 of Selenium Webdriver ).
+  eg :
+
+  **in portal :**
+
+  In TestSample Class
+
+  ```java
+  import runner.EventHandler;
+  ```
+
+  **in local setup (i.e my github code) :**
+
+  for TestSample Class
+
+  ```java
+  import com.testing.Selenium_Webdriver.session1.utils.EventHandler;
+  ```
+
 # 📅 Session Completion Status
 
 ## Legend
