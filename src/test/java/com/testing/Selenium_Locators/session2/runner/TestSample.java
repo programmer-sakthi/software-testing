@@ -1,9 +1,7 @@
 package com.testing.Selenium_Locators.session2.runner;
 
 import org.junit.Test;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.events.EventFiringDecorator;
 import org.openqa.selenium.support.events.WebDriverListener;
@@ -33,16 +31,8 @@ public class TestSample {
             driver = new EventFiringDecorator<>(listener).decorate(driver);
 
             // Start your script from here
-            driver.get("https://adactinhotelapp.com/");
+            driver.get("https://www.netmeds.com/");
 
-            WebElement usernameElement = driver.findElement(By.id("username"));
-            usernameElement.sendKeys("Salman");
-
-            WebElement passwordElement = driver.findElement(By.name("password"));
-            passwordElement.sendKeys("dummy");
-
-            WebElement submitButton = driver.findElement(By.className("login_button"));
-            submitButton.click();
 
         } catch (Exception e) {
             e.printStackTrace();

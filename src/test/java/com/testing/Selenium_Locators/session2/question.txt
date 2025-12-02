@@ -1,7 +1,7 @@
-1. Launch the webpage https://adactinhotelapp.com/
+1. Launch the webpage https://www.netmeds.com/
 
-2. Use "id" locator to input the value "Salman" in "Username" field
+2. Click "Cardiac Care" in menu bar					
 
-3. Use "name" locator to input the value "dummy" in "Password" field
+3. Clcik first product from the results
 
-4. Use "class" locator to click "Login" button
+4. Click "ADD TO CART" button
