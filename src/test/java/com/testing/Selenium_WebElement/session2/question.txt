@@ -1,0 +1,11 @@
+1. open the URL : https://demo.automationtesting.in/Alerts.html
+
+2. Click the "Click the button to display an alert box: button
+
+3. Accept the alert
+
+4. Click the "Alert with OK & Cancel"
+
+5. Click "Click the button to display a confirm box"
+
+6. Dismiss the alert

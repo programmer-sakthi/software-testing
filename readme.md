@@ -111,8 +111,8 @@ This repository contains all the code and resources for the Software Testing cou
     </tr>
     <tr>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;">Selenium Webelement</td>
-      <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;"></td>
-      <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;"></td>
+      <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;">✅</td>
+      <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;">✅</td>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;"></td>
     </tr>
     <tr>
