@@ -1,0 +1,17 @@
+a. Create a maven project and add the selenium dependencies.
+
+b. Open the https://www.finology.in/
+
+c. Click the "Login" button.
+
+
+
+d. In the result page, enter "9876543210" (don't change the value) data from the Excel file.
+
+												
+
+e. Click the "Continue" button.
+
+										
+
+f. Verify the page has "Enter OTP received on your Email/Mobile".
