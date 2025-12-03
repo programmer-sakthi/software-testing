@@ -85,6 +85,7 @@ This repository contains all the code and resources for the Software Testing cou
 
 - ✅ : Completed
 - ❌ : Can't be solved ( Reason give below )
+- ➖ : partial test cases passing
 - Blank : Not yet attempted
 
 <table style="border-collapse: collapse; text-align: center;">
@@ -116,7 +117,7 @@ This repository contains all the code and resources for the Software Testing cou
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;">Selenium Webelement</td>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;">✅</td>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;">✅</td>
-      <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;"></td>
+      <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;">➖</td>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;"></td>
     </tr>
     <tr>
@@ -161,7 +162,7 @@ This repository contains all the code and resources for the Software Testing cou
   </tbody>
 </table>
 
-## Skipped Sessions
+## Skipped and Partially passed Sessions
 
 ### Selenium Webdriver
 
@@ -171,3 +172,7 @@ This repository contains all the code and resources for the Software Testing cou
 ### Selenium Locators
 
 - Session 2 Q1 : The website UI has been changed.
+
+### Selenium WebElement
+
+- Session 3 :2nd test case won't pass

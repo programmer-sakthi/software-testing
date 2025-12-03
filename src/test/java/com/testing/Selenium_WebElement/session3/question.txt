@@ -1,0 +1,17 @@
+a. Open the https://www.amazon.in/
+
+b. Perform the mouse hover operation on "Hello Signin".
+
+c. Click on the Sign in Button.
+
+d. Navigate back to the homepage and click on the searchbar.
+
+e. Search for "Vivo v25" and Click search button.
+
+f. Click the first phone in the result.
+
+g. Do windows handling to switch to child window/
+
+h. At the bottom of the page there is a table that shows the different mobiles and their rating
+
+i. Print the connector type, screen size, and price by using dynamic XPath in the console.
