@@ -159,6 +159,7 @@ This repository contains all the code and resources for the Software Testing cou
 ### Selenium Webdriver
 
 - Session 1 : Website not opening in College Network.
+- Daily Challenge : Google has a I am not a robot verification which can't be bypassed using selenium easily.
 
 ### Selenium Locators
 

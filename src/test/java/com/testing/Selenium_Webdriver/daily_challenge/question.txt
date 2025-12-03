@@ -1,0 +1,9 @@
+Open the browser and navigate to the URL: https://www.google.com.
+Locate the search box element by its name attribute q.
+Input the value "OpenAI" into the search box.
+Submit the search form to initiate the search.
+Wait for the search results to load.
+Locate the first search result link using the CSS selector h3.
+Click on the first search result link to navigate to the respective page.
+Wait for a few seconds to see the results.
+Quit the browser session.
