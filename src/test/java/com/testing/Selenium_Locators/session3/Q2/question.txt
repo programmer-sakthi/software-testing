@@ -1,0 +1,5 @@
+1. Launch the webpage https://www.medplusmart.com/
+
+2. Use "Css Selector" to Click "Pharamcy" in menu bar.
+
+3.It redircts to the result page, there use "Css Selector" to click "Healthy Life" menu available on the navigation bar.

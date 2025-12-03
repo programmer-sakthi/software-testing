@@ -1,0 +1,8 @@
+URL : https://www.insurancedekho.com/
+
+1. Launch the website 
+2. Click Renew
+3. Input the value "9876543210" in the mobile number field
+4. Click Continue Button
+
+
