@@ -1,0 +1,7 @@
+Open the website: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+
+Input the username, and password in the login fields
+username : Admin
+password : admin123
+
+Click the login button.

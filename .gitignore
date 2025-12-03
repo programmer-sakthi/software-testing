@@ -17,3 +17,6 @@ buildNumber.properties
 .classpath
 .markdownlint.json
 .vscode
+
+
+commands.md
