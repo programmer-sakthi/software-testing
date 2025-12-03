@@ -122,7 +122,7 @@ This repository contains all the code and resources for the Software Testing cou
     </tr>
     <tr>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;">Introduction To TestNG</td>
-      <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;"></td>
+      <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;">➖</td>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;"></td>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;"></td>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;"></td>
@@ -176,3 +176,8 @@ This repository contains all the code and resources for the Software Testing cou
 ### Selenium WebElement
 
 - Session 3 :2nd test case won't pass
+
+### Introduction To TestNG
+
+- Session 1 : 1/2 test cases passing. for 2nd test cases they asked to call assert method from Evenhandler class which is not present inside event handlr class in portal code. Hence couldn't implement that.
+- Session 2 : fucking test cases just wont pass. I wanna kms 😪.
