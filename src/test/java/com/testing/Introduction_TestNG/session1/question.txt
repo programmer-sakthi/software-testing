@@ -1,0 +1,34 @@
+Question:
+
+
+
+a. @BeforeMethod - Launch https://groww.in/
+
+
+
+b. @Test – Create three methods named "test1", "test2":
+
+
+
+In the "test1" method, click on "Login/Sign up".
+
+
+
+In the "test2" method, click on "Login/Sign up" and  Assert the "Welcome to Groww" header in the middle pop-up
+
+
+Note: Call the Assert methods which is available inside the utils Eventhandler class.
+
+
+
+c. @AfterMethod - Quit the driver
+
+
+
+Change the order of execution of test methods as follows:
+
+
+
+Execute the methods in the order: "test2" -> "test1". Use the priority attribute.
+
+Execute the methods in the order:  "test2" -> "test1". Use the dependsOnMethods attribute and observe the use of dependsOnMethods attirubute.
