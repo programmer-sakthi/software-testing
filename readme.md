@@ -94,6 +94,7 @@ This repository contains all the code and resources for the Software Testing cou
       <th style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;">Session 1</th>
       <th style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;">Session 2</th>
       <th style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;">Session 3</th>
+      <th style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;">Daily Challange</th>
     </tr>
   </thead>
   <tbody>
@@ -102,21 +103,25 @@ This repository contains all the code and resources for the Software Testing cou
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;">❌</td>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;">✅</td>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;">✅</td>
+      <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;">❌</td>
     </tr>
     <tr>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;">Selenium Locators</td>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;">✅</td>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;">Q1 : ❌ Q2 : ✅</td>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;">Q1 : ✅ Q2 : ✅</td>
+      <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;"></td>
     </tr>
     <tr>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;">Selenium Webelement</td>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;">✅</td>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;">✅</td>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;"></td>
+      <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;"></td>
     </tr>
     <tr>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;">Introduction To TestNG</td>
+      <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;"></td>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;"></td>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;"></td>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;"></td>
@@ -126,9 +131,11 @@ This repository contains all the code and resources for the Software Testing cou
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;"></td>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;"></td>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;"></td>
+      <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;"></td>
     </tr>
     <tr>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;">Extent Reports</td>
+      <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;"></td>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;"></td>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;"></td>
       <td style="border: 1px solid #222; padding: 6px; text-align: center; vertical-align: middle;"></td>
